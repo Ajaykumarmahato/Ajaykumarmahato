@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Chitra [ Ecommerce Platform of my own ]]**
 
-- 🌱 I’m currently learning **React Js, React Native**
+- 🌱 I’m currently learning **GO**
 
-- 💬 Ask me about **PHP, Laravel Framework, JavaScript, React Js**
+- 💬 Ask me about **PHP, Laravel Framework, JavaScript, React Js Vue Js, Python**
 
 - 📫 How to reach me **mahatoa632@gmail.com**
 
